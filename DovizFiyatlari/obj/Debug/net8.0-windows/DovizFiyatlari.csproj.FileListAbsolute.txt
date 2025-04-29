@@ -1,0 +1,17 @@
+C:\Users\Matbaaloji Yazılım\Desktop\eren\DovizFiyatları\DovizFiyatlari\DovizFiyatlari\bin\Debug\net8.0-windows\DovizFiyatlari.exe
+C:\Users\Matbaaloji Yazılım\Desktop\eren\DovizFiyatları\DovizFiyatlari\DovizFiyatlari\bin\Debug\net8.0-windows\DovizFiyatlari.deps.json
+C:\Users\Matbaaloji Yazılım\Desktop\eren\DovizFiyatları\DovizFiyatlari\DovizFiyatlari\bin\Debug\net8.0-windows\DovizFiyatlari.runtimeconfig.json
+C:\Users\Matbaaloji Yazılım\Desktop\eren\DovizFiyatları\DovizFiyatlari\DovizFiyatlari\bin\Debug\net8.0-windows\DovizFiyatlari.dll
+C:\Users\Matbaaloji Yazılım\Desktop\eren\DovizFiyatları\DovizFiyatlari\DovizFiyatlari\bin\Debug\net8.0-windows\DovizFiyatlari.pdb
+C:\Users\Matbaaloji Yazılım\Desktop\eren\DovizFiyatları\DovizFiyatlari\DovizFiyatlari\obj\Debug\net8.0-windows\DovizFiyatlari.Form1.resources
+C:\Users\Matbaaloji Yazılım\Desktop\eren\DovizFiyatları\DovizFiyatlari\DovizFiyatlari\obj\Debug\net8.0-windows\DovizFiyatlari.csproj.GenerateResource.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\DovizFiyatları\DovizFiyatlari\DovizFiyatlari\obj\Debug\net8.0-windows\DovizFiyatlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matbaaloji Yazılım\Desktop\eren\DovizFiyatları\DovizFiyatlari\DovizFiyatlari\obj\Debug\net8.0-windows\DovizFiyatlari.AssemblyInfoInputs.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\DovizFiyatları\DovizFiyatlari\DovizFiyatlari\obj\Debug\net8.0-windows\DovizFiyatlari.AssemblyInfo.cs
+C:\Users\Matbaaloji Yazılım\Desktop\eren\DovizFiyatları\DovizFiyatlari\DovizFiyatlari\obj\Debug\net8.0-windows\DovizFiyatlari.csproj.CoreCompileInputs.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\DovizFiyatları\DovizFiyatlari\DovizFiyatlari\obj\Debug\net8.0-windows\DovizFiyatlari.sourcelink.json
+C:\Users\Matbaaloji Yazılım\Desktop\eren\DovizFiyatları\DovizFiyatlari\DovizFiyatlari\obj\Debug\net8.0-windows\DovizFiyatlari.dll
+C:\Users\Matbaaloji Yazılım\Desktop\eren\DovizFiyatları\DovizFiyatlari\DovizFiyatlari\obj\Debug\net8.0-windows\refint\DovizFiyatlari.dll
+C:\Users\Matbaaloji Yazılım\Desktop\eren\DovizFiyatları\DovizFiyatlari\DovizFiyatlari\obj\Debug\net8.0-windows\DovizFiyatlari.pdb
+C:\Users\Matbaaloji Yazılım\Desktop\eren\DovizFiyatları\DovizFiyatlari\DovizFiyatlari\obj\Debug\net8.0-windows\DovizFiyatlari.genruntimeconfig.cache
+C:\Users\Matbaaloji Yazılım\Desktop\eren\DovizFiyatları\DovizFiyatlari\DovizFiyatlari\obj\Debug\net8.0-windows\ref\DovizFiyatlari.dll
